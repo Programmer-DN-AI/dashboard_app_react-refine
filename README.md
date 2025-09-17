@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://dashboard-refine-fv.netlify.app" target="_blank">
+    <a href="https://dashboard-app-react-refine.vercel.app/" target="_blank">
       <img src="public/design/preview.gif" alt="Project Banner">
     </a>
   <h3 align="center">Dashboard React/Refine</h3>
